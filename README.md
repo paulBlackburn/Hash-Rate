@@ -1,1 +1,1 @@
-# Hash-Rate
+# Monitor Ethermine Miner
