@@ -21,4 +21,4 @@ while True:
         offline = False
         print("Miner is online")
 
-    time.sleep(20)
+    time.sleep(180)
